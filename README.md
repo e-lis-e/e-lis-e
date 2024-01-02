@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Elise
-## A curious Software Engineering major ready to put my skills to the test!
+## A curious Software Engineering student ready to put my skills to the test!
 
 - 🔭 I’m currently In Universidade de Pernambuco for Software Engineering.
 
