@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently In Universidade de Pernambuco for Software Engineering.
 
-- 🌱 I’m currently solo learning C in **CS50's Introduction to Computer Science** and Game Development in **DIO's "Potência Tech iFood - Desenvolvimento de Jogos"**
-
+- 🌱 I’m currently solo learning Python in **CS50's Introduction to Computer Science** 
 - 📫 How to reach me: **eppnovaes@gmail.com**
 
 - ⚡ Fun fact: **I play the guitar and sing.**
