@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently In Universidade de Pernambuco for Software Engineering.
 
-- 🌱 I’m currently solo learning Python in **CS50's Introduction to Computer Science** 
+- 🌱 I’m currently solo learning HTML, CSS and JavaScript in **CS50's Introduction to Computer Science** 
 - 📫 How to reach me: **eppnovaes@gmail.com**
 
 - ⚡ Fun fact: **I play the guitar and sing.**
