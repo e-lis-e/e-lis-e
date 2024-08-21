@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently In Universidade de Pernambuco for Software Engineering.
 
-- 🌱 I’m currently solo learning HTML, CSS and JavaScript in **CS50's Introduction to Computer Science** 
+- 🌱 I’m currently learning .NET and React in **DIO's XP Inc. - Full Stack Developer Bootcamp**
 - 📫 How to reach me: **eppnovaes@gmail.com**
 
 - ⚡ Fun fact: **I play the guitar and sing.**
