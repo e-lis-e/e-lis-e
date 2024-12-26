@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Elise
 ## A curious Software Engineering student ready to put my skills to the test!
 
-- 🔭 I’m currently In Universidade de Pernambuco for Software Engineering.
-
-- 🌱 I’m currently learning .NET and React in **DIO's XP Inc. - Full Stack Developer Bootcamp**
+- 🔭 I’m currently In Universidade de Pernambuco to be a Software Engineer.
 - 📫 How to reach me: **eppnovaes@gmail.com**
 
 - ⚡ Fun fact: **I play the guitar and sing.**
