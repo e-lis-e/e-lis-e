@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: *she/her*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-lis-e&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-lis-e)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-lis-e&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
